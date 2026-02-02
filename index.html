@@ -1,6 +1,6 @@
-
 <!DOCTYPE html>
 <html lang="tr">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
@@ -9,7 +9,9 @@
     <script src="https://cdn.tailwindcss.com"></script>
     <!-- PDF download library -->
 
-    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=Playfair+Display:wght@700;900&display=swap" rel="stylesheet">
+    <link
+        href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=Playfair+Display:wght@700;900&display=swap"
+        rel="stylesheet">
     <style>
         :root {
             --emerald-950: #022c22;
@@ -17,6 +19,7 @@
             --gold-500: #d4af37;
             --gold-600: #b8860b;
         }
+
         body {
             font-family: 'Plus Jakarta Sans', sans-serif;
             background-color: #fafafa;
@@ -24,17 +27,25 @@
             -webkit-tap-highlight-color: transparent;
             line-height: 1.5;
         }
+
         .font-serif {
             font-family: 'Playfair Display', serif;
         }
-        
+
         .page-transition {
             animation: fadeInScale 0.4s cubic-bezier(0.2, 0, 0.2, 1);
         }
 
         @keyframes fadeInScale {
-            from { transform: scale(0.98); opacity: 0; }
-            to { transform: scale(1); opacity: 1; }
+            from {
+                transform: scale(0.98);
+                opacity: 0;
+            }
+
+            to {
+                transform: scale(1);
+                opacity: 1;
+            }
         }
 
         #root {
@@ -49,7 +60,7 @@
             max-width: 768px;
             background-color: #ffffff;
             min-height: 100vh;
-            box-shadow: 0 0 50px rgba(0,0,0,0.03);
+            box-shadow: 0 0 50px rgba(0, 0, 0, 0.03);
             position: relative;
         }
 
@@ -63,9 +74,11 @@
         ::-webkit-scrollbar {
             width: 6px;
         }
+
         ::-webkit-scrollbar-track {
             background: transparent;
         }
+
         ::-webkit-scrollbar-thumb {
             background: #e2e8f0;
             border-radius: 10px;
@@ -78,17 +91,31 @@
         .gold-gradient {
             background: linear-gradient(135deg, #d4af37 0%, #f1d374 50%, #b8860b 100%);
         }
-        
+
         .emerald-gradient {
             background: linear-gradient(135deg, #064e3b 0%, #022c22 100%);
         }
 
         /* PDF and Print Styles */
         @media print {
-            .no-print { display: none !important; }
-            body { background: white !important; height: auto !important; min-height: auto !important; }
-            .app-container { box-shadow: none !important; width: 100% !important; max-width: 100% !important; min-height: auto !important; height: auto !important; }
-            
+            .no-print {
+                display: none !important;
+            }
+
+            body {
+                background: white !important;
+                height: auto !important;
+                min-height: auto !important;
+            }
+
+            .app-container {
+                box-shadow: none !important;
+                width: 100% !important;
+                max-width: 100% !important;
+                min-height: auto !important;
+                height: auto !important;
+            }
+
             #recipe-printable-area {
                 padding: 0 !important;
                 margin: 0 !important;
@@ -102,7 +129,7 @@
                 page-break-inside: avoid !important;
                 break-inside: avoid !important;
             }
-            
+
             .force-no-break {
                 page-break-after: avoid !important;
                 page-break-before: avoid !important;
@@ -115,19 +142,13 @@
             }
         }
     </style>
-<script type="importmap">
-{
-  "imports": {
-    "react-dom/": "https://esm.sh/react-dom@^19.2.4/",
-    "react/": "https://esm.sh/react@^19.2.4/",
-    "react": "https://esm.sh/react@^19.2.4"
-  }
-}
-</script>
-<link rel="stylesheet" href="/index.css">
+
+    <link rel="stylesheet" href="/index.css">
 </head>
+
 <body>
     <div id="root"></div>
-<script type="module" src="/index.tsx"></script>
+    <script type="module" src="/index.tsx"></script>
 </body>
+
 </html>
