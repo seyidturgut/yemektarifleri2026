@@ -759,32 +759,6 @@
           }
         ]
       }
-    },
-    {
-      "day": 30,
-      "menu": [
-        "Anadolu Çorbası",
-        "Karışık Izgara",
-        "Sumaklı Soğan & Köz Biber",
-        "Cevizli Baklava"
-      ],
-      "recipe_name": "Karışık Izgara",
-      "recipe": {
-        "title": "Karışık Izgara",
-        "images": [
-          "/yemekgorselleri/gun30/main.webp"
-        ],
-        "details": [
-          {
-            "caption": "Malzemeler",
-            "content": "200 gr kuzu şiş\n4 adet kasap köfte\n4 adet tavuk kanat\n2 adet kuzu pirzola\nDomates, yeşil biber, soğan\nMarine için: Zeytinyağı, süt, soğan suyu, baharatlar"
-          },
-          {
-            "caption": "Hazırlanışı",
-            "content": "Etleri en az 4 saat önceden marine edin.\nIzgarayı veya döküm tavayı iyice ısıtın.\nEtleri ve sebzeleri istediğiniz pişme derecesine göre ızgara yapın.\nSıcak servis tabağına alıp lavaş eşliğinde servis yapın."
-          }
-        ]
-      }
     }
   ]
 }
