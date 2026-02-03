@@ -1,0 +1,790 @@
+{
+  "title": "Günün menüsü",
+  "subTitle": "Yemek tarifleri",
+  "smallImagePath": "http://download.ezanvaktipro.com/recipes/2026/smallImage.png",
+  "bigImagePath": "http://download.ezanvaktipro.com/recipes/2026/smallImage.png",
+  "appURL_Android": "https://yemektarifleri.ezanvaktipro.com/",
+  "appURL_IOS": "https://yemektarifleri.ezanvaktipro.com/",
+  "days": [
+    {
+      "day": 1,
+      "menu": [
+        "Süzme Mercimek Çorbası",
+        "İzmir Köfte",
+        "Şehriyeli Pirinç Pilavı",
+        "Geleneksel Güllaç"
+      ],
+      "recipe_name": "İzmir Köfte",
+      "recipe": {
+        "title": "İzmir Köfte",
+        "images": [
+          "/yemekgorselleri/gun1/main.webp"
+        ],
+        "details": [
+          {
+            "caption": "Malzemeler",
+            "content": "500 gr orta yağlı dana kıyma\n1 adet rendelenmiş soğan\n1 adet yumurta\n3 yemek kaşığı galeta unu\n4 adet orta boy patates\n2 adet yeşil biber\n1 yemek kaşığı domates salçası\nTuz, kimyon, karabiber, kekik"
+          },
+          {
+            "caption": "Hazırlanışı",
+            "content": "Kıyma, soğan, yumurta, galeta unu ve baharatları bir kapta iyice yoğurup parmak şeklinde köfteler hazırlayın.\nPatatesleri elma dilimi şeklinde doğrayıp hafifçe kızartın.\nKöfteleri de hafifçe kızartın.\nFırın tepsisine patatesleri ve köfteleri dizin, aralarına biberleri yerleştirin.\nSalçayı sıcak suyla açıp üzerine dökün ve 200 derece fırında yaklaşık 25-30 dakika pişirin."
+          }
+        ]
+      }
+    },
+    {
+      "day": 2,
+      "menu": [
+        "Yayla Çorbası",
+        "Karnıyarık",
+        "Bulgur Pilavı",
+        "Şekerpare"
+      ],
+      "recipe_name": "Karnıyarık",
+      "recipe": {
+        "title": "Karnıyarık",
+        "images": [
+          "/yemekgorselleri/gun2/main.webp"
+        ],
+        "details": [
+          {
+            "caption": "Malzemeler",
+            "content": "6 adet kemer patlıcan\n300 gr kıyma\n2 adet soğan\n2 adet domates\n2 adet yeşil biber\nSarımsak, salça, sıvı yağ\nTuz, karabiber, maydanoz"
+          },
+          {
+            "caption": "Hazırlanışı",
+            "content": "Patlıcanları alacalı soyup tuzlu suda bekletin, kurutup kızartın ve ortalarını yarın.\nİç harcı için soğanları ve kıymayı kavurun, biber, doğranmış domates ve salçayı ekleyin.\nBaharatları ve ince kıyılmış maydanozu ekleyip harcı patlıcanların içine doldurun.\nÜzerlerine birer dilim domates ve biber koyun.\nSalçalı sıcak su hazırlayıp tepsiye dökün, 180 derece fırında 20-25 dk pişirin."
+          }
+        ]
+      }
+    },
+    {
+      "day": 3,
+      "menu": [
+        "Tarhana Çorbası",
+        "Etli Kuru Fasulye",
+        "Tereyağlı Pirinç Pilavı",
+        "Dondurmalı İrmik Helvası"
+      ],
+      "recipe_name": "Etli Kuru Fasulye",
+      "recipe": {
+        "title": "Etli Kuru Fasulye",
+        "images": [
+          "/yemekgorselleri/gun3/main.webp"
+        ],
+        "details": [
+          {
+            "caption": "Malzemeler",
+            "content": "2 su bardağı kuru fasulye (bir gece önceden ıslatılmış)\n250 gr kuşbaşı dana eti\n1 adet kuru soğan\n1 yemek kaşığı domates salçası\n1 tatlı kaşığı biber salçası\n2 yemek kaşığı tereyağı\nTuz, karabiber, kimyon (gazını alması için)"
+          },
+          {
+            "caption": "Hazırlanışı",
+            "content": "Etleri düdüklü tencerede suyunu salıp çekene kadar kavurun.\nTereyağını ve doğranmış soğanları ekleyip kavurmaya devam edin.\nSalçaları ekleyip kokusu çıkana kadar kavurun.\nSüzdüğünüz fasulyeleri ekleyip birkaç dakika çevirin.\nÜzerini 2-3 parmak geçecek kadar sıcak su, tuz ve baharatları ekleyin.\nDüdüklü tencerede fasulyenin cinsine göre 25-30 dakika pişirin (güveçte de yapabilirsiniz)."
+          }
+        ]
+      }
+    },
+    {
+      "day": 4,
+      "menu": [
+        "Ezogelin Çorbası",
+        "Fırında Tavuk Patates",
+        "Meyhane Pilavı",
+        "Fırın Sütlaç"
+      ],
+      "recipe_name": "Fırında Tavuk Patates",
+      "recipe": {
+        "title": "Fırında Tavuk Patates",
+        "images": [
+          "/yemekgorselleri/gun4/main.webp"
+        ],
+        "details": [
+          {
+            "caption": "Malzemeler",
+            "content": "4 adet tavuk baget\n3 adet orta boy patates\n2 diş sarımsak\nSosu için: 1 kaşık salça, 2 kaşık yoğurt, zeytinyağı, kekik, tuz, karabiber"
+          },
+          {
+            "caption": "Hazırlanışı",
+            "content": "Sarımsakları ezip diğer sos malzemeleriyle geniş bir kapta karıştırın.\nTavuk bagetleri yıkayıp kurulayın ve sosa bulayın.\nPatatesleri elma dilimi doğrayıp aynı sosla harmanlayın.\nHepsini fırın tepsisine dizin.\nÖnceden ısıtılmış 200 derece fırında tavuklar kızarana kadar (yaklaşık 40-45 dk) pişirin."
+          }
+        ]
+      }
+    },
+    {
+      "day": 5,
+      "menu": [
+        "Yüksük Çorbası",
+        "Orman Kebabı",
+        "Pirinç Pilavı",
+        "Kalburabastı"
+      ],
+      "recipe_name": "Orman Kebabı",
+      "recipe": {
+        "title": "Orman Kebabı",
+        "images": [
+          "/yemekgorselleri/gun5/main.webp"
+        ],
+        "details": [
+          {
+            "caption": "Malzemeler",
+            "content": "500 gr kuşbaşı et\n2 adet patates\n2 adet havuç\n1 çay bardağı bezelye\n1 adet soğan\n1 yemek kaşığı salça\nKekik, tuz, karabiber"
+          },
+          {
+            "caption": "Hazırlanışı",
+            "content": "Etleri suyunu salıp çekene kadar kavurun, üzerini geçecek kadar su ekleyip yumuşayana kadar pişirin.\nAyrı bir yerde soğanları kavurun, küp doğranmış havuç ve patatesleri ekleyin.\nSalçayı ekleyip kavurun, haşlanmış etleri ve bezelyeyi ilave edin.\nEtin haşlama suyundan veya sıcak su ekleyip sebzeler yumuşayana kadar pişirin.\nBaharatlarını ekleyip ocaktan alın."
+          }
+        ]
+      }
+    },
+    {
+      "day": 6,
+      "menu": [
+        "Sütlü Domates Çorbası",
+        "Kıymalı Patatesli Bezelye",
+        "Şehriyeli Pirinç Pilavı",
+        "Portakallı Revani"
+      ],
+      "recipe_name": "Kıymalı Patatesli Bezelye",
+      "recipe": {
+        "title": "Kıymalı Patatesli Bezelye",
+        "images": [
+          "/yemekgorselleri/gun6/main.webp"
+        ],
+        "details": [
+          {
+            "caption": "Malzemeler",
+            "content": "500 gr bezelye (taze veya dondurulmuş)\n150 gr kıyma\n2 adet orta boy patates\n1 adet havuç\n1 adet kuru soğan\n1 yemek kaşığı salça\n3 yemek kaşığı sıvı yağ\nTuz, karabiber, sıcak su"
+          },
+          {
+            "caption": "Hazırlanışı",
+            "content": "Soğanı yemeklik doğrayıp sıvı yağda kavurun.\nKıymayı ekleyip rengi dönene kadar soteleyin.\nKüp doğranmış patates ve havuçları ekleyip birkaç dakika daha kavurun.\nSalçayı ekleyip kokusu çıkana kadar karıştırın.\nBezelyeleri ve üzerini geçecek kadar sıcak suyu ekleyin.\nSebzeler yumuşayana kadar yaklaşık 25-30 dakika kısık ateşte pişirin.\nOcaktan almadan önce tuzunu ve karabiberini ekleyin."
+          }
+        ]
+      }
+    },
+    {
+      "day": 7,
+      "menu": [
+        "Tel Şehriye Çorbası",
+        "Sebzeli Tavuk Sote",
+        "Sebzeli Bulgur Pilavı",
+        "Tam Kıvamında İrmik Helvası"
+      ],
+      "recipe_name": "Sebzeli Tavuk Sote",
+      "recipe": {
+        "title": "Sebzeli Tavuk Sote",
+        "images": [
+          "/yemekgorselleri/gun7/main.webp"
+        ],
+        "details": [
+          {
+            "caption": "Malzemeler",
+            "content": "500 gr tavuk göğsü veya kuşbaşı doğranmış but\n2 adet yeşil biber, 1 adet kapya biber\n1 adet büyük soğan\n2 adet domates\n2 diş sarımsak\n1 tatlı kaşığı salça\nKekik, pul biber, tuz, zeytinyağı"
+          },
+          {
+            "caption": "Hazırlanışı",
+            "content": "Soğan ve biberleri yemeklik doğrayın, sarımsakları ezin.\nGeniş bir tavada zeytinyağını kızdırıp tavukları yüksek ateşte suyunu salıp çekene kadar soteleyin.\nSoğanları ve biberleri ekleyip yumuşayana kadar kavurmaya devam edin.\nSalçayı ve rendelenmiş domatesleri ekleyin.\nBaharatlarını ekleyip kapağını kapatın ve sebzelerin suyuyla 15-20 dakika kısık ateşte pişmeye bırakın."
+          }
+        ]
+      }
+    },
+    {
+      "day": 8,
+      "menu": [
+        "Erişteli Yeşil Mercimek Çorbası",
+        "Kıymalı Ispanak Yemeği",
+        "Domates Soslu Makarna",
+        "Sütlü İrmik Tatlısı"
+      ],
+      "recipe_name": "Kıymalı Ispanak Yemeği",
+      "recipe": {
+        "title": "Kıymalı Ispanak Yemeği",
+        "images": [
+          "/yemekgorselleri/gun8/main.webp"
+        ],
+        "details": [
+          {
+            "caption": "Malzemeler",
+            "content": "500 gr ıspanak\n100 gr kıyma\n1 adet soğan\n1 yemek kaşığı pirinç\n1 yemek kaşığı salça, 2 yemek kaşığı sıvı yağ\nTuz, karabiber, sarımsaklı yoğurt (servis için)"
+          },
+          {
+            "caption": "Hazırlanışı",
+            "content": "Ispanakları sirkeli suda yıkayıp irice doğrayın.\nSoğanı kıyma ile birlikte kavurun, salçayı ekleyin.\nIspanakları ve pirinci ekleyip kendi suyuyla kısık ateşte pişmeye bırakın.\nPirinçler yumuşayınca ocaktan alın.\nSarımsaklı yoğurt ile servis yapın."
+          }
+        ]
+      }
+    },
+    {
+      "day": 9,
+      "menu": [
+        "Kremalı Mantar Çorbası",
+        "Tavuklu Sultan Kebabı",
+        "Arpa Şehriye Pilavı",
+        "Muhallebili Kadayıf"
+      ],
+      "recipe_name": "Tavuklu Sultan Kebabı",
+      "recipe": {
+        "title": "Tavuklu Sultan Kebabı",
+        "images": [
+          "/yemekgorselleri/gun9/main.webp"
+        ],
+        "details": [
+          {
+            "caption": "Malzemeler",
+            "content": "2 adet tavuk göğsü (kuşbaşı)\n2 adet yufka\n1 kase bezelye-havuç garnitür\n1 adet soğan\nBeşamel için: 2 kaşık un, 2 kaşık tereyağı, 2 bardak süt\nÜzeri için: Kaşar peyniri rendesi\nSalça, baharatlar"
+          },
+          {
+            "caption": "Hazırlanışı",
+            "content": "Tavukları soğanla soteleyin, garnitürü, salçayı ve baharatları ekleyip iç harcı hazırlayın.\nBir kaseye dörde böldüğünüz yufkadan bir parça serip iç harçtan koyun, kenarlarını kapatıp fırın tepsisine ters çevirin.\nBeşamel sos için tereyağında unu kavurup sütü ekleyin, koyulaşana kadar pişirin.\nTepsiye dizdiğiniz bohçaların üzerine beşamel sosu gezdirin.\n200 derece fırında kızarana kadar pişirin, son 5 dakika kala kaşar peyniri serpip erimesini bekleyin."
+          }
+        ]
+      }
+    },
+    {
+      "day": 10,
+      "menu": [
+        "Düğün Çorbası",
+        "Kadınbudu Köfte",
+        "Garnitürlü Pirinç Pilavı",
+        "Ev Yapımı Supangle"
+      ],
+      "recipe_name": "Kadınbudu Köfte",
+      "recipe": {
+        "title": "Kadınbudu Köfte",
+        "images": [
+          "/yemekgorselleri/gun10/main.webp"
+        ],
+        "details": [
+          {
+            "caption": "Malzemeler",
+            "content": "600 gr orta yağlı dana kıyma\n1 çay bardağı haşlanmış pirinç\n2 adet kuru soğan\n2 adet yumurta (bir tanesi içine, diğeri bulamak için)\n1 su bardağı galeta unu veya un (bulamak için)\nTuz, karabiber, kimyon, sıvı yağ"
+          },
+          {
+            "caption": "Hazırlanışı",
+            "content": "Kıymanın yarısını yemeklik doğranmış soğanla suyunu çekene kadar kavurun ve soğutun.\nGeniş bir kapta kavrulmuş kıyma, çiğ kıyma, haşlanmış pirinç, 1 yumurta ve baharatları iyice yoğurun.\nHamurdan yumurta büyüklüğünde parçalar koparıp yassı oval şekil verin.\nHazırladığınız köfteleri önce una sonra çırpılmış yumurtaya bulayın.\nKızgın yağda önlü arkalı altın sarısı olana kadar kızartın."
+          }
+        ]
+      }
+    },
+    {
+      "day": 11,
+      "menu": [
+        "Lebeniye Çorbası",
+        "Patlıcan Musakka",
+        "Şehriyeli Pirinç Pilavı",
+        "Karamel Soslu Trileçe"
+      ],
+      "recipe_name": "Patlıcan Musakka",
+      "recipe": {
+        "title": "Patlıcan Musakka",
+        "images": [
+          "/yemekgorselleri/gun11/main.webp"
+        ],
+        "details": [
+          {
+            "caption": "Malzemeler",
+            "content": "4 adet patlıcan\n250 gr kıyma\n2 adet soğan, 2 diş sarımsak\n2 adet domates, 2 adet yeşil biber\n1 yemek kaşığı salça, Sıvı yağ\nTuz, Karabiber, Pul Biber"
+          },
+          {
+            "caption": "Hazırlanışı",
+            "content": "Patlıcanları alacalı soyup küp doğrayın ve yağda hafifçe kızartın.\nSoğan, sarımsak ve kıymayı kavurun. Biberleri ve domatesleri ekleyip sosu hazırlayın.\nSalçalı suyu ilave edin.\nKızarmış patlıcanları tencereye dizin, üzerine kıymalı harcı dökün.\nKısık ateşte sebzeler yumuşayana ve sularını çekene kadar pişirin."
+          }
+        ]
+      }
+    },
+    {
+      "day": 12,
+      "menu": [
+        "Köz Domates Çorbası",
+        "Sebzeli Tavuk Haşlama",
+        "Sebzeli Bulgur Pilavı",
+        "Çilekli Magnolia"
+      ],
+      "recipe_name": "Sebzeli Tavuk Haşlama",
+      "recipe": {
+        "title": "Sebzeli Tavuk Haşlama",
+        "images": [
+          "/yemekgorselleri/gun12/main.webp"
+        ],
+        "details": [
+          {
+            "caption": "Malzemeler",
+            "content": "4 adet tavuk baget\n2 adet patates, 1 adet havuç\n1 adet kuru soğan\nTerbiyesi için: 1 yumurta sarısı, yarım limon suyu\nTuz, karabiber, maydanoz"
+          },
+          {
+            "caption": "Hazırlanışı",
+            "content": "Tavukları tencereye alıp üzerine su ekleyerek haşlamaya başlayın.\nYarım haşlanan tavukların üzerine küp doğranmış patates, havuç ve soğanı ekleyin.\nSebzeler yumuşayana kadar pişirmeye devam edin.\nLimon suyu ve yumurta sarısını çırpıp yemeğin suyuyla ılıştırarak ekleyin.\nMaydanoz serpip sıcak servis yapın."
+          }
+        ]
+      }
+    },
+    {
+      "day": 13,
+      "menu": [
+        "Kremalı Mantar Çorbası",
+        "İzmir Köfte",
+        "Pirinç Pilavı",
+        "Fıstıklı Tel Kadayıf"
+      ],
+      "recipe_name": "İzmir Köfte",
+      "recipe": {
+        "title": "İzmir Köfte",
+        "images": [
+          "/yemekgorselleri/gun13/main.webp"
+        ],
+        "details": [
+          {
+            "caption": "Malzemeler",
+            "content": "500 gr kıyma\n4 adet patates\n1 adet soğan, 1 yumurta\nGaleta unu, baharatlar\nSalçalı sos için: 1 kaşık salça, sıcak su"
+          },
+          {
+            "caption": "Hazırlanışı",
+            "content": "Köfte harcını hazırlayıp şekil verin.\nPatatesleri elma dilimi doğrayıp fırın tepsisine dizin.\nKöfteleri de aralarına yerleştirin.\nÜzerine salçalı sosu döküp fırında pişirin."
+          }
+        ]
+      }
+    },
+    {
+      "day": 14,
+      "menu": [
+        "Yayla Çorbası",
+        "Zeytinyağlı Taze Fasulye",
+        "Domates Soslu Makarna",
+        "Fırın Sütlaç"
+      ],
+      "recipe_name": "Zeytinyağlı Taze Fasulye",
+      "recipe": {
+        "title": "Zeytinyağlı Taze Fasulye",
+        "images": [
+          "/yemekgorselleri/gun14/main.webp"
+        ],
+        "details": [
+          {
+            "caption": "Malzemeler",
+            "content": "1 kg taze fasulye\n2 adet büyük soğan\n3 adet domates\nYarım su bardağı zeytinyağı\n1 tatlı kaşığı toz şeker\n1 tatlı kaşığı tuz\n1 su bardağı sıcak su"
+          },
+          {
+            "caption": "Hazırlanışı",
+            "content": "Fasulyeleri ayıklayıp isteğe göre kırın veya bütünüyle bırakın.\nSoğanları yemeklik doğrayıp zeytinyağında pembeleşene kadar kavurun.\nFasulyeleri ekleyip rengi dönene kadar soğanla birlikte çevirin.\nRendelenmiş veya küp doğranmış domatesleri ekleyin.\nŞeker, tuz ve sıcak suyu ilave edip kapağını kapatın.\nKısık ateşte fasulyeler yumuşayana kadar pişirin. Soğuk servis yapın."
+          }
+        ]
+      }
+    },
+    {
+      "day": 15,
+      "menu": [
+        "Ezogelin Çorbası",
+        "Tas Kebabı",
+        "Şehriyeli Bulgur Pilavı",
+        "Haşhaşlı Revani"
+      ],
+      "recipe_name": "Tas Kebabı",
+      "recipe": {
+        "title": "Tas Kebabı",
+        "images": [
+          "/yemekgorselleri/gun15/main.webp"
+        ],
+        "details": [
+          {
+            "caption": "Malzemeler",
+            "content": "500 gr kuşbaşı dana eti\n2 adet patates\n1 adet büyük kuru soğan\n2 diş sarımsak\n1 yemek kaşığı domates salçası\n2 adet yeşil biber\nTuz, karabiber, kekik, sıvı yağ"
+          },
+          {
+            "caption": "Hazırlanışı",
+            "content": "Etleri tencereye alın ve suyunu salıp çekene kadar mühürleyin.\nSoğan ve sarımsağı ekleyip kavurmaya devam edin.\nSalçayı ve biberleri ekleyip 2-3 dakika karıştırın.\nSıcak suyunu ekleyip etler yumuşayana kadar pişirin.\nPişmeye yakın küp doğranmış patatesleri ekleyin ve 15 dk daha pişirin."
+          }
+        ]
+      }
+    },
+    {
+      "day": 16,
+      "menu": [
+        "Domates Çorbası",
+        "Tavuk Sote",
+        "Pirinç Pilavı",
+        "Tel Kadayıf"
+      ],
+      "recipe_name": "Tavuk Sote",
+      "recipe": {
+        "title": "Tavuk Sote",
+        "images": [
+          "/yemekgorselleri/gun16/main.webp"
+        ],
+        "details": [
+          {
+            "caption": "Malzemeler",
+            "content": "500 gr tavuk göğsü\n2 adet yeşil biber\n1 adet kırmızı kapya biber\n1 adet kuru soğan\n2 diş sarımsak\n2 adet domates\n1 tatlı kaşığı domates salçası\nTuz, karabiber, kekik, sıvı yağ"
+          },
+          {
+            "caption": "Hazırlanışı",
+            "content": "Tavukları kuşbaşı doğrayıp suyunu çekene kadar kavurun.\nDoğranmış soğan, sarımsak ve biberleri ekleyip sotelemeye devam edin.\nSalçayı ve küp doğranmış domatesleri ilave edin.\nBaharatlarını ekleyip kısık ateşte tavuklar yumuşayana kadar pişirin."
+          }
+        ]
+      }
+    },
+    {
+      "day": 17,
+      "menu": [
+        "Süzme Mercimek Çorbası",
+        "İzmir Köfte",
+        "Sade Pirinç Pilavı",
+        "Kemalpaşa Tatlısı"
+      ],
+      "recipe_name": "İzmir Köfte",
+      "recipe": {
+        "title": "İzmir Köfte",
+        "images": [
+          "/yemekgorselleri/gun17/main.webp"
+        ],
+        "details": [
+          {
+            "caption": "Malzemeler",
+            "content": "500 gr dana kıyma\n3 adet büyük patates\n1 adet soğan\n2 diş sarımsak\n1 adet yumurta\nYarım demet maydanoz\nGaleta unu, baharatlar\nSosu için: 2 yemek kaşığı salça, 2 su bardağı su"
+          },
+          {
+            "caption": "Hazırlanışı",
+            "content": "Kıyma, rendelenmiş soğan, yumurta ve baharatlarla köfteleri hazırlayın.\nPatatesleri elma dilim doğrayıp köftelerle birlikte hafifçe kızartın.\nFırın tepsisine dizip üzerine salçalı sosu dökün.\n200 derece fırında patatesler yumuşayana kadar pişirin."
+          }
+        ]
+      }
+    },
+    {
+      "day": 18,
+      "menu": [
+        "Tarhana Çorbası",
+        "Hünkar Beğendi",
+        "Mevsim Salatası",
+        "İrmik Helvası"
+      ],
+      "recipe_name": "Hünkar Beğendi",
+      "recipe": {
+        "title": "Hünkar Beğendi",
+        "images": [
+          "/yemekgorselleri/gun18/main.webp"
+        ],
+        "details": [
+          {
+            "caption": "Malzemeler",
+            "content": "500 gr kuşbaşı kuzu veya dana eti\n3 adet patlıcan\n1 yemek kaşığı un\n1 yemek kaşığı tereyağı\nYarım su bardağı süt\nYarım su bardağı rendelenmiş kaşar peyniri\n1 adet soğan, 1 yemek kaşığı salça"
+          },
+          {
+            "caption": "Hazırlanışı",
+            "content": "Etleri kendi suyunda pişirip soğan ve salça ile soteleyin.\nPatlıcanları közleyip içlerini çıkartın ve ince ince kıyın.\nTereyağında unu kavurup patlıcanları ve sütü ekleyerek püre haline getirin.\nPeyniri ekleyip karıştırın. Beğendiyi tabağa yayıp üzerine etleri ekleyerek servis yapın."
+          }
+        ]
+      }
+    },
+    {
+      "day": 19,
+      "menu": [
+        "Düğün Çorbası",
+        "Sebzeli Tavuk Haşlama",
+        "Şehriyeli Pirinç Pilavı",
+        "Şekerpare"
+      ],
+      "recipe_name": "Sebzeli Tavuk Haşlama",
+      "recipe": {
+        "title": "Sebzeli Tavuk Haşlama",
+        "images": [
+          "/yemekgorselleri/gun19/main.webp"
+        ],
+        "details": [
+          {
+            "caption": "Malzemeler",
+            "content": "500 gr tavuk but (kemiksiz)\n2 adet patates\n1 adet büyük havuç\n10-15 adet arpacık soğan\n2 diş sarımsak\nTuz, karabiber"
+          },
+          {
+            "caption": "Hazırlanışı",
+            "content": "Tavukları iri kuşbaşı doğrayıp tencerede soteleyin.\nSoğan, havuç ve patatesleri ekleyip 5 dk daha çevirin.\nSıcak su ekleyip tüm sebzeler yumuşayana kadar haşlayın."
+          }
+        ]
+      }
+    },
+    {
+      "day": 20,
+      "menu": [
+        "Kremalı Mantar Çorbası",
+        "Karnıyarık",
+        "Cacık",
+        "Trileçe"
+      ],
+      "recipe_name": "Karnıyarık",
+      "recipe": {
+        "title": "Karnıyarık",
+        "images": [
+          "/yemekgorselleri/gun20/main.webp"
+        ],
+        "details": [
+          {
+            "caption": "Malzemeler",
+            "content": "6 adet orta boy patlıcan\n300 gr orta yağlı dana kıyma\n2 adet kuru soğan\n3 adet yeşil biber\n2 adet domates\n3 diş sarımsak\n1 yemek kaşığı domates salçası\nTuz, karabiber, pul biber, maydanoz\nKızartmak için sıvı yağ"
+          },
+          {
+            "caption": "Hazırlanışı",
+            "content": "Patlıcanları alacalı soyup tuzlu suda 15 dakika bekletin, ardından kurulayıp yağda her yanını kızartın.\nİç harcı için; soğanları soteleyin, kıymayı ekleyip suyunu çekene kadar kavurun.\nDoğranmış biberleri, sarımsakları ve küp doğranmış domatesleri ekleyin.\nSalçanın yarısını, baharatları ve ince kıyılmış maydanozu ekleyip ocaktan alın.\nKızaran patlıcanların ortalarını bir bıçak yardımıyla boydan boya açın.\nHazırladığınız kıymalı harcı patlıcanların içine bolca doldurun.\nÜzerilerine birer dilim domates ve birer adet biber yerleştirin.\nKalan salçayı 1 bardak sıcak suyla açıp fırın tepsisine dökün.\n190 derece fırında yaklaşık 25-30 dakika pişirin."
+          }
+        ]
+      }
+    },
+    {
+      "day": 21,
+      "menu": [
+        "Mahluta Çorbası",
+        "Patlıcan Kebabı",
+        "Sebzeli Bulgur Pilavı",
+        "Çilekli Magnolia"
+      ],
+      "recipe_name": "Patlıcan Kebabı",
+      "recipe": {
+        "title": "Patlıcan Kebabı",
+        "images": [
+          "/yemekgorselleri/gun21/main.webp"
+        ],
+        "details": [
+          {
+            "caption": "Malzemeler",
+            "content": "4 adet orta boy patlıcan\n500 gr orta yağlı zırh kıyması\n3 adet domates\n4 adet yeşil biber\n3 diş sarımsak\nTuz, karabiber, pul biber"
+          },
+          {
+            "caption": "Hazırlanışı",
+            "content": "Patlıcanları yıkadıktan sonra 2 parmak kalınlığında halkalar halinde kesin.\nKıyma ve baharatları yoğurarak köfteler hazırlayın.\nFırın tepsisine bir patlıcan, bir köfte olacak şekilde yan yana dizin.\nTepsinin ortasına domates, biber ve sarımsakları yerleştirin.\nÜzerine çok az su gezdirip 200 derece fırında patlıcanlar yumuşayana kadar pişirin."
+          }
+        ]
+      }
+    },
+    {
+      "day": 22,
+      "menu": [
+        "Şehriyeli Tavuk Suyu Çorbası",
+        "Hasanpaşa Köfte",
+        "Sebzeli Pilav",
+        "Kıbrıs Tatlısı"
+      ],
+      "recipe_name": "Hasanpaşa Köfte",
+      "recipe": {
+        "title": "Hasanpaşa Köfte",
+        "images": [
+          "/yemekgorselleri/gun22/main.webp"
+        ],
+        "details": [
+          {
+            "caption": "Malzemeler",
+            "content": "500 gr dana kıyma\n1 adet rende soğan\n2 diş sarımsak\nYarım demet maydanoz\nGaleta unu, baharatlar\nPüresi için: 3 adet patates, 1 yemek kaşığı tereyağı, yarım çay bardağı süt\nÜzeri için: Kaşar peyniri rendesi"
+          },
+          {
+            "caption": "Hazırlanışı",
+            "content": "Kıymayı köfte malzemeleriyle yoğurup çanak şekli vererek fırın tepsisine dizin.\nKöfteleri 200 derece fırında 15 dakika pişirin.\nPatatesleri haşlayıp süt ve tereyağı ile pürüzsüz bir püre hazırlayın.\nFırından çıkan köfte çanaklarının içine püreyi doldurun.\nÜzerine kaşar rendesi döküp peynirler kızarana kadar tekrar fırınlayın."
+          }
+        ]
+      }
+    },
+    {
+      "day": 23,
+      "menu": [
+        "Ayran Aşı Çorbası",
+        "Etli Bamya",
+        "Zeytinyağı Barbunya",
+        "Lokma Tatlısı"
+      ],
+      "recipe_name": "Etli Bamya",
+      "recipe": {
+        "title": "Etli Bamya",
+        "images": [
+          "/yemekgorselleri/gun23/main.webp"
+        ],
+        "details": [
+          {
+            "caption": "Malzemeler",
+            "content": "500 gr taze bamya\n250 gr kuşbaşı dana eti\n1 adet büyük kuru soğan\n2 adet domates\n1 yemek kaşığı salça\nYarım limon suyu\nZeytinyağı, tuz"
+          },
+          {
+            "caption": "Hazırlanışı",
+            "content": "Etleri kendi suyunu çekene kadar pişirin, üzerine soğanı ekleyip kavurun.\nSalça ve rendelenmiş domatesleri ekleyip 5 dakika daha soteleyin.\nBamyaları ayıklayıp tencereye alın, üzerine yarım limon suyunu (salyalanmaması için) gezdirin.\nSıcak suyunu ekleyip bamyalar yumuşayana kadar kısık ateşte pişirin."
+          }
+        ]
+      }
+    },
+    {
+      "day": 24,
+      "menu": [
+        "Domatesli Şehriye Çorbası",
+        "Manisa Kebabı",
+        "Haydari",
+        "Kazandibi"
+      ],
+      "recipe_name": "Manisa Kebabı",
+      "recipe": {
+        "title": "Manisa Kebabı",
+        "images": [
+          "/yemekgorselleri/gun24/main.webp"
+        ],
+        "details": [
+          {
+            "caption": "Malzemeler",
+            "content": "500 gr dana kıyma\nPide ekmeği\nSosu için: Bolca yoğurt, sarımsak\nÜzeri için: Bol tereyağı and pul biber"
+          },
+          {
+            "caption": "Hazırlanışı",
+            "content": "Kıyma ile uzun ince köfteler hazırlayıp geniş bir tavada az yağda pişirin.\nPideleri küp küp doğrayıp tabağa dizin ve hafifçe köfte suyuyla ıslatın.\nPidelerin üzerine sarımsaklı yoğurt dökün, üzerine köfteleri dizin.\nEn üste kızgın tereyağını gezdirerek sıcak servis yapın."
+          }
+        ]
+      }
+    },
+    {
+      "day": 25,
+      "menu": [
+        "Brokoli Çorbası",
+        "Fırında Somon",
+        "Baharatlı Elma Dilim Patates",
+        "Limonlu Cheesecake"
+      ],
+      "recipe_name": "Fırında Somon",
+      "recipe": {
+        "title": "Fırında Somon",
+        "images": [
+          "/yemekgorselleri/gun25/main.webp"
+        ],
+        "details": [
+          {
+            "caption": "Malzemeler",
+            "content": "2 adet somon fileto\n1 adet limon\nTaze kekik, biberiye\nZeytinyağı, tuz, karabiber\nYarım soğan halkaları"
+          },
+          {
+            "caption": "Hazırlanışı",
+            "content": "Somonları yağlı kağıt serili tepsiye alın.\nZeytinyağı, limon dilimleri ve taze otlarla harmanlayın.\n200 derece fırında yaklaşık 20-25 dakika pişirin."
+          }
+        ]
+      }
+    },
+    {
+      "day": 26,
+      "menu": [
+        "Mantı Çorbası",
+        "Kekikli Tavuk Sote",
+        "Kremalı Makarna",
+        "Mozaik Pasta"
+      ],
+      "recipe_name": "Kekikli Tavuk Sote",
+      "recipe": {
+        "title": "Kekikli Tavuk Sote",
+        "images": [
+          "/yemekgorselleri/gun26/main.webp"
+        ],
+        "details": [
+          {
+            "caption": "Malzemeler",
+            "content": "600 gr tavuk göğsü\n2 adet yeşil biber\n1 adet büyük soğan\n2 diş sarımsak\nBolca kekik, pul biber"
+          },
+          {
+            "caption": "Hazırlanışı",
+            "content": "Tavukları küp doğrayıp yüksek ateşte suyunu çekene kadar soteleyin.\nSoğan ve biberleri ekleyip yumuşayana kadar kavurmaya devam edin.\nSon aşamada sarımsak ve bol kekik ekleyip 2 dakika daha çevirip ocaktan alın."
+          }
+        ]
+      }
+    },
+    {
+      "day": 27,
+      "menu": [
+        "Sütlü Domates Çorbası",
+        "Etli Lahana Sarması",
+        "Yoğurtlu Havuç Tarator",
+        "Kabak Tatlısı"
+      ],
+      "recipe_name": "Etli Lahana Sarması",
+      "recipe": {
+        "title": "Etli Lahana Sarması",
+        "images": [
+          "/yemekgorselleri/gun27/main.webp"
+        ],
+        "details": [
+          {
+            "caption": "Malzemeler",
+            "content": "1 adet büyük beyaz lahana\n300 gr orta yağlı dana kıyma\n1 su bardağı pirinç\n1 adet büyük soğan\nYarım demet maydanoz\n1 yemek kaşığı domates salçası\n1 yemek kaşığı biber salçası\nTuz, karabiber, kuru nane, pul biber"
+          },
+          {
+            "caption": "Hazırlanışı",
+            "content": "Lahana yapraklarını tuzlu kaynar suda yumuşayana kadar haşlayın ve damarlarını alarak uygun boyutta kesin.\nKıyma, yıkanmış pirinç, ince kıyılmış soğan, maydanoz, salçaların yarısı ve baharatlarla iç harcını hazırlayın.\nHazırladığınız yapraklara harçtan koyup sıkıca sarın ve tencereye düzenli bir şekilde dizin.\nKalan salçayı suyla açıp üzerlerine gezdirin, porselen bir tabak kapatıp kısık ateşte pişirin."
+          }
+        ]
+      }
+    },
+    {
+      "day": 28,
+      "menu": [
+        "Arabaşı Çorbası",
+        "Sac Kavurma",
+        "Çoban Salatası",
+        "Künefe"
+      ],
+      "recipe_name": "Sac Kavurma",
+      "recipe": {
+        "title": "Sac Kavurma",
+        "images": [
+          "/yemekgorselleri/gun28/main.webp"
+        ],
+        "details": [
+          {
+            "caption": "Malzemeler",
+            "content": "500 gr kuzu kuşbaşı (veya küçük dana eti)\n3 adet yeşil sivri biber\n2 adet orta boy domates\n1 adet büyük kuru soğan\n3 yemek kaşığı sıvı yağ\n1 tatlı kaşığı tereyağı\nTuz, karabiber, kekik, pul biber"
+          },
+          {
+            "caption": "Hazırlanışı",
+            "content": "Etleri sacda veya geniş bir tavada suyunu salıp çekene kadar pişirin.\nSıvı yağı ve yemeklik doğranmış soğanları ekleyip soğanlar pembeleşene kadar kavurun.\nDoğranmış biberleri ekleyip 2-3 dakika daha soteleyin.\nKüp doğranmış domatesleri, tuzu ve baharatları ekleyin.\nDomatesler suyunu çekip etler yumuşayana kadar pişirip en son tereyağını ekleyerek servis yapın."
+          }
+        ]
+      }
+    },
+    {
+      "day": 29,
+      "menu": [
+        "Bademli Tavuk Çorbası",
+        "İslim Kebabı",
+        "Zeytinyağı Yaprak Sarma",
+        "Etimek Tatlısı"
+      ],
+      "recipe_name": "İslim Kebabı",
+      "recipe": {
+        "title": "İslim Kebabı",
+        "images": [
+          "/yemekgorselleri/gun29/main.webp"
+        ],
+        "details": [
+          {
+            "caption": "Malzemeler",
+            "content": "4 adet kemer patlıcan\n300 gr dana kıyma\n1 adet küçük soğan (rendelenmiş)\n2 diş sarımsak\n2 adet domates\n2 adet yeşil biber\n1 yemek kaşığı salça\nTuz, karabiber, pul biber"
+          },
+          {
+            "caption": "Hazırlanışı",
+            "content": "Patlıcanları şerit halinde soyup uzun dilimler halinde kesin ve kızartın.\nKıyma, soğan, sarımsak ve baharatlarla köfteler hazırlayıp az yağda kızartın.\nİki dilim patlıcanı artı şeklinde koyup ortasına köfteyi yerleştirin ve bohça gibi kapatın.\nÜzerine bir dilim domates ve biber saplayıp kürdanla sabitleyin.\nSalçalı su hazırlayıp üzerine dökün ve 190 derece fırında yaklaşık 20 dakika pişirin."
+          }
+        ]
+      }
+    },
+    {
+      "day": 30,
+      "menu": [
+        "Anadolu Çorbası",
+        "Karışık Izgara",
+        "Sumaklı Soğan & Köz Biber",
+        "Cevizli Baklava"
+      ],
+      "recipe_name": "Karışık Izgara",
+      "recipe": {
+        "title": "Karışık Izgara",
+        "images": [
+          "/yemekgorselleri/gun30/main.webp"
+        ],
+        "details": [
+          {
+            "caption": "Malzemeler",
+            "content": "200 gr kuzu şiş\n4 adet kasap köfte\n4 adet tavuk kanat\n2 adet kuzu pirzola\nDomates, yeşil biber, soğan\nMarine için: Zeytinyağı, süt, soğan suyu, baharatlar"
+          },
+          {
+            "caption": "Hazırlanışı",
+            "content": "Etleri en az 4 saat önceden marine edin.\nIzgarayı veya döküm tavayı iyice ısıtın.\nEtleri ve sebzeleri istediğiniz pişme derecesine göre ızgara yapın.\nSıcak servis tabağına alıp lavaş eşliğinde servis yapın."
+          }
+        ]
+      }
+    }
+  ]
+}

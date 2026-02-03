@@ -44,7 +44,7 @@ const CalendarView: React.FC<{
   <div className="px-6 md:px-12 pb-20 page-transition max-w-4xl mx-auto w-full no-print">
     <div className="py-12 md:py-16 text-center">
       <h2 className="text-4xl md:text-5xl font-serif font-black text-[#064e3b] leading-tight transition-all">İftar Takvimi</h2>
-      <p className="text-sm md:text-base text-[#b8860b] mt-4 font-bold uppercase tracking-[0.2em] opacity-80">30 Günlük Bereket Rehberi</p>
+      <p className="text-sm md:text-base text-[#b8860b] mt-4 font-bold uppercase tracking-[0.2em] opacity-80">29 Günlük Bereket Rehberi</p>
     </div>
 
     <div className="grid grid-cols-4 sm:grid-cols-5 md:grid-cols-6 gap-4 md:gap-6">

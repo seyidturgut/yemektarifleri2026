@@ -1,7 +1,7 @@
 
 import { DayMenu, Recipe } from './types';
 
-export const RAMADAN_2026_START_DATE = new Date('2026-02-18');
+export const RAMADAN_2026_START_DATE = new Date('2026-02-19');
 
 const IMAGES = {
   çorba: "/yemekgorselleri/gun1/soup.webp",
@@ -24,7 +24,7 @@ const MAIN_POOL = [
   { name: "Tavuk Sote", cal: 340, img: IMAGES.anaYemek }
 ];
 
-export const MENU_DATA: DayMenu[] = Array.from({ length: 30 }, (_, i) => {
+export const MENU_DATA: DayMenu[] = Array.from({ length: 29 }, (_, i) => {
   const dayNumber = i + 1;
   const dateStr = new Date(RAMADAN_2026_START_DATE.getTime() + i * 24 * 60 * 60 * 1000).toLocaleDateString('tr-TR', { day: 'numeric', month: 'long' });
 
