@@ -402,7 +402,7 @@ export const MENU_DATA: DayMenu[] = Array.from({ length: 29 }, (_, i) => {
         },
         {
           id: 'y-4',
-          name: "Meyhane Pilavı",
+          name: "Pirinç Pilavı",
           category: 'Yardımcı Yemek',
           calories: 260,
           imageUrl: "/yemekgorselleri/gun4/side.webp",
